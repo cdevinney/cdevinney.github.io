@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "'This Popular & Malcontent Temper': Pennsylvania Currency and Transatlantic Commerce, 1720–1723"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2025-05-01-this-popular-and-malcontent-temper
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+date: 2025-05-01
+venue: 'Pennsylvania History: A Journal of Mid-Atlantic Studies'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://muse.jhu.edu/article/959439'
+citation: 'DeVinney, Claire. 'This Popular & Malcontent Temper': Pennsylvania Currency and Transatlantic Commerce, 1720–1723. *Pennsylvania History: A Journal of Mid-Atlantic Studies* 92, no. 2 (2025): 231-258. https://muse.jhu.edu/article/959439.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
