@@ -29,7 +29,7 @@ author:
   bio              : "History student"
   location         : #location
   employer         : "University of Rochester"
-  uri              : "https://www.sas.rochester.edu/his/graduate/students/devinney-claire/index.html"
+  uri              : # URL
   email            : "cdevinne@ur.rochester.edu" 
 
   # Academic websites
