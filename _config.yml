@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I'm a graduate student in history studying colony-metropole relationships in the seventeenth and eighteenth centuries."
   location         : #location
-  employer         : "University of Rochester"
-  uri              : "https://www.sas.rochester.edu/his/graduate/students/devinney-claire/index.html"
+  employer         : "[University of Rochester](https://www.sas.rochester.edu/his/graduate/students/devinney-claire/index.html)"
+  uri              : # URL
   email            : "cdevinne@ur.rochester.edu" 
 
   # Academic websites
