@@ -1,10 +1,20 @@
 ---
 permalink: /
-title: "Welcome to my website."
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my website. 
+I am a history student studying colony-metropole relationships in North America and the Caribbean during the seventeenth and eighteenth centuries. My public history experience is in nineteenth century topics, particularly abolition.
+
+### Research interests
+* Debt, credit, currency, and trade
+* Slavery, rights, and law
+* Enlightenment and revolution
+* Subjecthood and imperial construction
+* Maritime commerce and warfare
+* Print and popular culture
+
+
