@@ -7,7 +7,7 @@ excerpt: 'This project analyzes Pennsylvania’s political controversies over cu
 date: 2025-05-01
 venue: 'Pennsylvania History: A Journal of Mid-Atlantic Studies'
 paperurl: 'https://muse.jhu.edu/article/959439'
-citation: 'DeVinney, Claire. "This Popular & Malcontent Temper: Pennsylvania Currency and Transatlantic Commerce, 1720–1723." *Pennsylvania History: A Journal of Mid-Atlantic Studies* 92, no. 2 (2025): 231-258. https://muse.jhu.edu/article/959439.'
+citation: 'DeVinney, Claire. \"\'This Popular & Malcontent Temper\': Pennsylvania Currency and Transatlantic Commerce, 1720–1723.\" *Pennsylvania History: A Journal of Mid-Atlantic Studies* 92, no. 2 (2025): 231-258. https://muse.jhu.edu/article/959439.'
 ---
 
 ## View this article [here](https://muse.jhu.edu/article/959439).  
