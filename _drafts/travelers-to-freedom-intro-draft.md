@@ -2,7 +2,7 @@
 layout: single
 title:  "Travelers to Freedom: Mapping Journeys on the Underground Railroad, 1855-1856"
 header:
-  teaser: "unsplash-gallery-image-2-th.jpg"
+  teaser: "1863_Johnson-Eastman_A-Ride-for-Liberty.jpg"
 categories: 
   - Jekyll
 tags:
