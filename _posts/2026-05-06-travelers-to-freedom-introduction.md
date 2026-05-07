@@ -14,7 +14,7 @@ Project Origins
 After I moved to Rochester in 2024, I spent a summer as a seasonal park ranger at Harriet Tubman National Historical Park in Auburn, NY. Harriet Tubman is the most recognizable Underground Railroad figure for most people. She led groups of freedom seekers through Auburn, where she eventually settled her family, and to Rochester. In Rochester, Tubman brought freedom seekers to stay with abolitionist writer and speaker Frederick Douglass, who had made his own journey to freedom as a young man.
 
 <figure>
-    <img src="/images/travelers-to-freedom/1868_Powelson-Benjamin_Portrait-of-Harriet-Tubman.jpg" width="411" height="653">
+    <img src="/images/travelers-to-freedom/1868_Powelson-Benjamin_Portrait-of-Harriet-Tubman.jpg" width="274" height="435">
     <figcaption>Harriet Tubman, photographed ca. 1868 by Benjamin Powelson.<sup><a href="#fn1" id="r1">[1]</a></sup></figcaption>
 </figure>
 
