@@ -15,7 +15,7 @@ After I moved to Rochester in 2024, I spent a summer as a seasonal park ranger a
 
 <figure>
     <img src="/images/travelers-to-freedom/1868_Powelson-Benjamin_Portrait-of-Harriet-Tubman.jpg" width="411" height="653">
-    <figcaption>Harriet Tubman<sup><a href="#fn1" id="r1">[1]</a></sup></figcaption>
+    <figcaption>Harriet Tubman, photographed ca. 1868 by Benjamin Powelson.<sup><a href="#fn1" id="r1">[1]</a></sup></figcaption>
 </figure>
 
 Rochester was likely an obvious safe haven for Tubman and the freedom seekers she guided. Tubman and Douglass were from neighboring counties in Maryland, and might have been familiar with each other before they were free. They may have even been related. At the very least, they formed an effective partnership when it came to the Underground Railroad. Rochester’s proximity to the Canadian border made Douglass’s house the final stop in the US for most freedom seekers; Tubman delivered them straight to his door.<sup><a href="#fn2" id="r2">[2]</a></sup>
@@ -26,6 +26,8 @@ My time as a ranger made me more curious about the freedom seekers who traveled 
     <iframe src="https://urochester.maps.arcgis.com/apps/instant/basic/index.html?appid=de4f0ce10a044b96bb8ba113e4ff06df" width="800" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
     <figcaption>My commute between Rochester and Auburn (blue) alongside a potential route between Auburn and Rochester in 1850 (red). Zoom in to see the locations of Underground Railroad sites and comtemporary town maps.<sup><a href="#fn3" id="r3">[3]</a></sup></figcaption>
 <figure>
+
+In truth, Underground Railroad history tends to focus on the places where freedom seekers stopped rather than their experiences of travel. Harriet Tubman is probably the most prominent exception to this tendency. Because her skill as a naturalist and navigator is so famous, we tend to picture her outside, forging through Chesapeake wetlands.
 
 <section>
  <p id="fn1"><a href="#r1">[1]</a> <small>Benjamin F. Powelson, Carte-de-Visite Portrait of Harriet Tubman, 1868, albumen and silver on photographic paper on card mount, 3 15/16 × 2 7/16 in., Collection of the National Museum of African American History and Culture shared with the Library of Congress, Emily Howland Photograph Album, <a>http://n2t.net/ark:/65665/fd5c1fe9caa-2405-4c5f-ae98-e33ce83b5f30</a>.</small></p>
