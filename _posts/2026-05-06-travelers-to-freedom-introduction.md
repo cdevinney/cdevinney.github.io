@@ -37,6 +37,6 @@ In truth, Underground Railroad history tends to focus on the places where freedo
 <section>
  <p id="fn1"><a href="#r1">[1]</a> <small>Benjamin F. Powelson, Carte-de-Visite Portrait of Harriet Tubman, 1868, albumen and silver on photographic paper on card mount, 3 15/16 × 2 7/16 in., Collection of the National Museum of African American History and Culture shared with the Library of Congress, Emily Howland Photograph Album, <a>http://n2t.net/ark:/65665/fd5c1fe9caa-2405-4c5f-ae98-e33ce83b5f30</a>.</small></p>
  <p id="fn2"><a href="#r2">[2]</a> <small>Kate Clifford Larson, <i>Bound for the Promised Land: Harriet Tubman, Portrait of an American Hero</i> (Random House, 2005), 92–96.</small></p>
- <p id="fn3"><a href="#r3">[3]</a> <small>View this map, including additional data and layer citation information, [here](https://arcg.is/0mubCy2).</small></p>
- <p id="fn4"><a href="#r4">[4]</a> <small>Michael Rosato, Harriet Tubman Mural, 2019, acrylic, 28 x 14, Harriet Tubman Museum and Educational Center, [https://harriettubmanmural.com/](https://harriettubmanmural.com/).</small></p>
+ <p id="fn3"><a href="#r3">[3]</a> <small>View this map, including additional data and layer citation information, <a> href="https://arcg.is/0mubCy2">here</a>.</small></p>
+ <p id="fn4"><a href="#r4">[4]</a> <small>Michael Rosato, Harriet Tubman Mural, 2019, acrylic, 28 x 14, Harriet Tubman Museum and Educational Center, <a>https://harriettubmanmural.com/</a>.</small></p>
 </section>
