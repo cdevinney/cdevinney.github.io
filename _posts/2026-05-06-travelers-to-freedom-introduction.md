@@ -22,7 +22,7 @@ Rochester was likely an obvious safe haven for Tubman and the freedom seekers sh
 
 My time as a ranger made me more curious about the freedom seekers who traveled without Tubman’s guidance. As I made the daily commute from my apartment in Rochester (a five-minute drive from the location where Frederick Douglass’s house once stood) to the Harriet Tubman National Historical Park (a five-minute drive from several of the former Underground Railroad sites in Auburn), I wondered how lone freedom seekers made it to Rochester. Where did they travel from? Who directed them to Douglass’s house, and how did they get there? What obstacles did they face?
 
-<iframe src="https://urochester.maps.arcgis.com/apps/instant/basic/index.html?appid=de4f0ce10a044b96bb8ba113e4ff06df" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+<iframe src="https://urochester.maps.arcgis.com/apps/instant/basic/index.html?appid=de4f0ce10a044b96bb8ba113e4ff06df" width="800" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
 
 <section>
  <p id="fn1"><a href="#r1">[1]</a> <small>Benjamin F. Powelson, Carte-de-Visite Portrait of Harriet Tubman, 1868, albumen and silver on photographic paper on card mount, 3 15/16 × 2 7/16 in., Collection of the National Museum of African American History and Culture shared with the Library of Congress, Emily Howland Photograph Album, <a>http://n2t.net/ark:/65665/fd5c1fe9caa-2405-4c5f-ae98-e33ce83b5f30</a>.</small></p>
