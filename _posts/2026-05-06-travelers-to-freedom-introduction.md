@@ -41,6 +41,8 @@ In truth, Underground Railroad history tends to focus on the places where freedo
 
 <iframe src="https://urochester.maps.arcgis.com/apps/instant/basic/index.html?appid=9c1740b71f6244649df9095bc81e28fb" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
 
+<iframe src="https://urochester.maps.arcgis.com/apps/instant/exhibit/index.html?appid=6d602568362e489088739d619fd859b7" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+
 <section>
  <p id="fn1"><a href="#r1">[1]</a> <small>Benjamin F. Powelson, Carte-de-Visite Portrait of Harriet Tubman, 1868, albumen and silver on photographic paper on card mount, 3 15/16 × 2 7/16 in., Collection of the National Museum of African American History and Culture shared with the Library of Congress, Emily Howland Photograph Album, <a>http://n2t.net/ark:/65665/fd5c1fe9caa-2405-4c5f-ae98-e33ce83b5f30</a>.</small></p>
  <p id="fn2"><a href="#r2">[2]</a> <small>Kate Clifford Larson, <i>Bound for the Promised Land: Harriet Tubman, Portrait of an American Hero</i> (Random House, 2005), 92–96.</small></p>
