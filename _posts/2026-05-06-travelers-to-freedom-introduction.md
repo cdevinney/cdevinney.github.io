@@ -46,5 +46,5 @@ In truth, Underground Railroad history tends to focus on the places where freedo
  <p id="fn2"><a href="#r2">[2]</a> <small>Kate Clifford Larson, <i>Bound for the Promised Land: Harriet Tubman, Portrait of an American Hero</i> (Random House, 2005), 92–96.</small></p>
  <p id="fn3"><a href="#r3">[3]</a> <small>View this map, including additional data and layer citation information, <a href="https://arcg.is/0mubCy2">here</a>.</small></p>
  <p id="fn4"><a href="#r4">[4]</a> <small>Michael Rosato, Harriet Tubman Mural, 2019, acrylic, 28 x 14, Harriet Tubman Museum and Educational Center, <a>https://harriettubmanmural.com/</a>.</small></p>
-  <p id="fn5"><a href="#r5">[5]</a> <small>Michael Rosato, Harriet Tubman Mural, 2019, acrylic, 28 x 14, Harriet Tubman Museum and Educational Center, <a>https://harriettubmanmural.com/</a>.</small></p>
+  <p id="fn5"><a href="#r5">[5]</a> <small>Major map data from .</small></p>
 </section>
