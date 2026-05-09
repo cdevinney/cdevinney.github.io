@@ -9,18 +9,18 @@ tags:
 ---
 This post introduces the digital history project I have been working on this semester: mapping the routes of travelers escaping slavery in 1855 and 1856 by using Sydney Howard Gay’s Underground Railroad records to create a geography-sensitive database. The resulting spatial data depicts the journeys of freedom seekers. It reveals how freedom seekers made their escapes, shedding light on often-overlooked participants in anti-slavery action. Geodata and primary accounts of escapes illustrate freedom seekers’ experiences of travel, space, and motion.
 
-Project origins
-------
-After I moved to Rochester in 2024, I spent a summer as a seasonal park ranger at Harriet Tubman National Historical Park in Auburn, NY. Harriet Tubman is the most recognizable Underground Railroad figure for most people. She led groups of freedom seekers through Auburn, where she eventually settled her family, and to Rochester. In Rochester, Tubman brought freedom seekers to stay with abolitionist writer and speaker Frederick Douglass, who had made his own journey to freedom as a young man.
+<h1>Project origins</h1>
+
+<p>After I moved to Rochester in 2024, I spent a summer as a seasonal park ranger at Harriet Tubman National Historical Park in Auburn, NY. Harriet Tubman is the most recognizable Underground Railroad figure for most people. She led groups of freedom seekers through Auburn, where she eventually settled her family, and to Rochester. In Rochester, Tubman brought freedom seekers to stay with abolitionist writer and speaker Frederick Douglass, who had made his own journey to freedom as a young man.</p>
 
 <figure>
     <img src="/images/travelers-to-freedom/1868_Powelson-Benjamin_Portrait-of-Harriet-Tubman.jpg" width="274px" height="435px">
     <figcaption>Harriet Tubman, photographed ca. 1868 by Benjamin Powelson.<sup><a href="#fn1" id="r1">[1]</a></sup></figcaption>
 </figure>
 
-Rochester was likely an obvious safe haven for Tubman and the freedom seekers she guided. Tubman and Douglass were from neighboring counties in Maryland, and might have been familiar with each other before they were free. They may have even been related. At the very least, they formed an effective partnership when it came to the Underground Railroad. Rochester’s proximity to the Canadian border made Douglass’s house the final stop in the US for most freedom seekers; Tubman delivered them straight to his door.<sup><a href="#fn2" id="r2">[2]</a></sup>
+<p>Rochester was likely an obvious safe haven for Tubman and the freedom seekers she guided. Tubman and Douglass were from neighboring counties in Maryland, and might have been familiar with each other before they were free. They may have even been related. At the very least, they formed an effective partnership when it came to the Underground Railroad. Rochester’s proximity to the Canadian border made Douglass’s house the final stop in the US for most freedom seekers; Tubman delivered them straight to his door.<sup><a href="#fn2" id="r2">[2]</a></sup></p>
 
-My time as a ranger made me more curious about the freedom seekers who traveled without Tubman’s guidance. As I made the daily commute from my apartment in Rochester (a five-minute drive from the location where Frederick Douglass’s house once stood) to the Harriet Tubman National Historical Park (a five-minute drive from several of the former Underground Railroad sites in Auburn), I wondered how lone freedom seekers made it to Rochester. Where did they travel from? Who directed them to Douglass’s house, and how did they get there? What obstacles did they face?
+<p>My time as a ranger made me more curious about the freedom seekers who traveled without Tubman’s guidance. As I made the daily commute from my apartment in Rochester (a five-minute drive from the location where Frederick Douglass’s house once stood) to the Harriet Tubman National Historical Park (a five-minute drive from several of the former Underground Railroad sites in Auburn), I wondered how lone freedom seekers made it to Rochester. Where did they travel from? Who directed them to Douglass’s house, and how did they get there? What obstacles did they face?</p>
 
 <figure>
     <iframe src="https://urochester.maps.arcgis.com/apps/instant/basic/index.html?appid=de4f0ce10a044b96bb8ba113e4ff06df" width="900" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
