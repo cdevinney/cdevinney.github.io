@@ -69,6 +69,118 @@ This post explains the methodological challenges of the project and details my d
     <td><b>LAST_NAME</b></td>
     <td>Identifies listees' surnames.</td>
   </tr>
+  <tr>
+    <td><b>FIRST_NAME</b></td>
+    <td>Identifies listees' first names.</td>
+  </tr>
+  <tr>
+    <td><b>UNIDENTIFIED</b></td>
+    <td>Indicates whether listees were anonymous to Sydney Howard Gay, William Still, and/or freedom seekers. Y = Yes; N = No.</td>
+  </tr>
+  <tr>
+    <td><b>STATUS</b></td>
+    <td>Indicates whether listees were freedom seekers or people who offered assistance to freedom seekers. FS = Freedom seeker; A = Assistance/anti-slavery.</td>
+  </tr>
+  <tr>
+    <td><b>RACE</b></td>
+    <td>Indicates the race of listees, if known. B = Black; W = White; U = Unknown.</td>
+  </tr>
+  <tr>
+    <td><b>LOCATION</b></td>
+    <td>Identifies the location at which a stop takes place. Labels are as specific as possible. Residential locations are identified by the name of the homeowner/primary resident (ie, "Rev. Jermain Loguen"); locations of businesses, society offices, and newspaper offices are identified by the name of the business, society, or newspaper (ie, "Bloodgood's Hotel," "Pennsylvania Vigilance Committee," "True Wesleyan Office"); infrastuctural or geographic features and civil buildings are labeled with their title (ie, "Christiana River Landing," "Broad Street Pier," "US District Court," "10th Street, Philadelphia"); directional estimates are labeled as Gay noted them (ie, "20 miles above Baltimore, MD"); geographic regions are labeled with their titles (ie, "Baltimore, MD," "Appomattox County, VA"). Locations where freedom seekers were enslaved by unnamed enslavers in unnamed locations are labeled sequentially (ie, "First enslaver," "Second enslaver," etc).</td>
+  </tr>
+  <tr>
+    <td><b>ADDRESS</b></td>
+    <td>Identifies the modern street address, if known, for the location at which a stop takes place.</td>
+  </tr>
+  <tr>
+    <td><b>LATITUDE</b></td>
+    <td>Identifies the latitude where a stop takes place.</td>
+  </tr>
+  <tr>
+    <td><b>LONGITUDE</b></td>
+    <td>Identifies the longitude where a stop takes place.</td>
+  </tr>
+  <tr>
+    <td><b>CITY</b></td>
+    <td>Identifies the town or city where a stop takes place, if known.</td>
+  </tr>
+  <tr>
+    <td><b>COUNTY</b></td>
+    <td>Identifies the county where a stop takes place, if known and applicable. This field is blank for large cities which are their own county or contain multiple counties.</td>
+  </tr>
+  <tr>
+    <td><b>STATE</b></td>
+    <td>Identifies the state where a stop takes place.</td>
+  </tr>
+  <tr>
+    <td><b>LOCATION_TYPE</b></td>
+    <td>Identifies locations as either enslavement, a stop on the Underground Railroad, a travel stop, or a destination.</td>
+  </tr>
+  <tr>
+    <td><b>LOCATION_NUMBER</b></td>
+    <td>Identifies the number of location when considering each stop location of an individual freedom seeker chronologically (ie, this field will contain "1" for a freedom seeker's first known location).</td>
+  </tr>
+  <tr>
+    <td><b>ARRIVAL_DATE</b></td>
+    <td>Identifies the date on which a freedom seeker arrived at the location.</td>
+  </tr>
+  <tr>
+    <td><b>ARRIVAL_TIME</b></td>
+    <td>Identifies the time (ie, "9:00am") or relative time description (ie, "early in the morning") at which a freedom seeker arrived at the location.</td>
+  </tr>
+  <tr>
+    <td><b>DEPARTURE_DATE</b></td>
+    <td>Identifies the date on which a freedom seeker departed the location.</td>
+  </tr>
+  <tr>
+    <td><b>DEPARTURE_TIME</b></td>
+    <td>Identifies the time (ie, "9:00am") or relative time description (ie, "early in the morning") at which a freedom seeker departed the location.</td>
+  </tr>
+  <tr>
+    <td><b>ARRIVAL_TRANSPORTATION_CATEGORY</b></td>
+    <td>Indicates the general method of transportation by which a freedom seeker arrived to the location.</td>
+  </tr>
+  <tr>
+    <td><b>ARRIVAL_TRANSPORTATION</b></td>
+    <td>Indicates the general method of transportation by which a freedom seeker arrived to the location, with a more specific transportation type indicated where applicable (ie, "Ship (Schooner)").</td>
+  </tr>
+  <tr>
+    <td><b>DEPARTURE_TRANSPORTATION_CATEGORY</b></td>
+    <td>Indicates the general method of transportation by which a freedom seeker departed the location.</td>
+  </tr>
+  <tr>
+    <td><b>DEPARTURE_TRANSPORTATION</b></td>
+    <td>Indicates the general method of transportation by which a freedom seeker departed the location, with a more specific transportation type indicated where applicable (ie, "Ship (Schooner)").</td>
+  </tr>
+  <tr>
+    <td><b>ESCORTED</b></td>
+    <td>Indicates whether the freedom seeker was escorted to the location. None = no escort; Anonymous = escort from person(s) unknown to Gay and/or Still or person whose name they choose to omit (this includes persons whose names are reported by freedom seekers but who were unknown to Gay and Still); Agent = escort from an abolitionist known to Gay and/or Still.</td>
+  </tr>
+  <tr>
+    <td><b>ESCORTED_BY</b></td>
+    <td>Indicates who escorted the freedom seeker to the location.</td>
+  </tr>
+  <tr>
+    <td><b>SENT</b></td>
+    <td>Indicates whether the freedom seeker was sent or directed to the location. None = no sending/direction; Anonymous = sending/direction from person(s) unknown to Gay and/or Still or person whose name they choose to omit (this includes persons whose names are reported by freedom seekers but who were unknown to Gay and Still); Agent = sending/direction from an abolitionist known to Gay and/or Still.</td>
+  </tr>
+  <tr>
+    <td><b>SENT_BY</b></td>
+    <td>Indicates who sent or provided directions to the location.</td>
+  </tr>
+  <tr>
+    <td><b>SENT_TO</b></td>
+    <td>Indicates to whom at the location the freedom seeker was sent/directed to.</td>
+  </tr>
+  <tr>
+    <td><b>SOURCE</b></td>
+    <td>Contains citations for the information communicated in the other fields.</td>
+  </tr>
+  <tr>
+    <td><b>NOTES</b></td>
+    <td>Contains clarification or elaboration on the contents of other fields.</td>
+  </tr>
 </table>
 
 <br>
