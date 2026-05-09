@@ -71,6 +71,8 @@ This post explains the methodological challenges of the project and details my d
   </tr>
 </table>
 
+<br>
+
 <h1>Estimates and approximations</h1>
 
 <p>Unfortunately, like many historical sources, Gay’s records can’t always offer exactness that allows us to pinpoint the exact location that he references. Without modern GPS (and, in the case of many freedom seekers, literacy), nineteenth-century travelers themselves didn’t always know where they were. I have kept the data entry as consistent as possible, despite some challenges in the following categories:</p>
