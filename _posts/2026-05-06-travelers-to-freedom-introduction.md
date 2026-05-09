@@ -34,12 +34,27 @@ In truth, Underground Railroad history tends to focus on the places where freedo
     <figcaption>Harriet Tubman mural by Michael Rosato, 2019.<sup><a href="#fn4" id="r4">[4]</a></sup></figcaption>
 <figure>
 
+  Apart from Tubman’s example, however, the most well-known part of the Underground Railroad are the places we now call “stations”—the homes or businesses of people who hosted freedom seekers. This approach makes sense for individual sites; we can expect interpretation of a house museum, for example, to focus on the homeowners and their use of the building for anti-slavery purposes. For example, the map below shows station sites included on the National Park Service Network to Freedom list and sites with historical markers related to abolition and the Underground Railroad. These are public history commemorations; many of them center local history.
+
 <figure>
-    <iframe src="https://urochester.maps.arcgis.com/apps/instant/basic/index.html?appid=487b6e61d3164d2fbec52716dd87a4f6" width="900" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
-   <figcaption>Counties where William Still recorded an escape are indicated in green.<sup><a href="#fn5" id="r5">[5]</a></sup></figcaption>
+  <iframe src="https://urochester.maps.arcgis.com/apps/instant/basic/index.html?appid=9c1740b71f6244649df9095bc81e28fb" width="900" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+  <figcaption>Map depicting Underground Railroad stations on the NPS Network to Freedom list and Historical Marker Database listings related to abolition and the Underground Railroad.<sup><a href="#fn5" id="r5">[5]</a></sup></figcaption>
 </figure>
 
-<iframe src="https://urochester.maps.arcgis.com/apps/instant/basic/index.html?appid=9c1740b71f6244649df9095bc81e28fb" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+The station-oriented approach has some drawbacks when we consider the Underground Railroad as a whole, however. Focusing on an individual location, or even many individual locations within a network, can cause us to lose perspective.
+
+Sometimes, this occurs through sentimentalization or mythologization. At its least factual, Underground Railroad history can become a type of folklore. There are certainly far more buildings and people rumored to be involved with the Underground Railroad than actually were involved. Everyone wants their ancestor or local house museum to have a connection to something significant and heroic; Underground Railroad participation is an easy suggestion to make, and all but impossible to definitively disprove. 
+
+Mythologizing the Underground Railroad does a disservice to abolitionists and Underground Railroad helpers by making it seem as though their belief was widespread. It was not. Abolitionism was radical, and people willing to consistently and publicly support it were very few. We in the twenty-first century are in the privileged position of knowing that the abolitionists won—slavery was abolished. The people who fought for its abolition might have hoped that it would happen in their lifetimes, but they must have experienced much of the abolition campaign as an interminable uphill battle in which they were vastly outnumbered.
+
+Imagining the Underground Railroad as a vast and well-organized network also does a disservice to freedom seekers by portraying them as passive “passengers.” In reality, the majority of freedom seekers planned their journeys without the expectation of substantial help. Even people who knew that they might find a support system in the north still had to travel there and seek assistance. At some point, every freedom seeker made the decision to take the extraordinary risk of traveling to freedom. As the data in this project emphasizes, these journeys were largely self-directed. Myths about secret codes and well-organized networks can obscure the things that freedom seekers actually relied on: their own courage and resourcefulness.
+
+<figure>
+    <iframe src="https://urochester.maps.arcgis.com/apps/instant/basic/index.html?appid=487b6e61d3164d2fbec52716dd87a4f6" width="900" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+   <figcaption>Counties where William Still recorded an escape are indicated in green.<sup><a href="#fn6" id="r6">[6]</a></sup></figcaption>
+</figure>
+
+
 
 <iframe src="https://urochester.maps.arcgis.com/apps/instant/exhibit/index.html?appid=6d602568362e489088739d619fd859b7" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
 
@@ -48,5 +63,5 @@ In truth, Underground Railroad history tends to focus on the places where freedo
  <p id="fn2"><a href="#r2">[2]</a> <small>Kate Clifford Larson, <i>Bound for the Promised Land: Harriet Tubman, Portrait of an American Hero</i> (Random House, 2005), 92–96.</small></p>
  <p id="fn3"><a href="#r3">[3]</a> <small>View this map, including additional data and layer citation information, <a href="https://arcg.is/0mubCy2">here</a>.</small></p>
  <p id="fn4"><a href="#r4">[4]</a> <small>Michael Rosato, Harriet Tubman Mural, 2019, acrylic, 28 x 14, Harriet Tubman Museum and Educational Center, <a>https://harriettubmanmural.com/</a>.</small></p>
-  <p id="fn5"><a href="#r5">[5]</a> <small>Major map data from .</small></p>
+  <p id="fn5"><a href="#r5">[5]</a> <small>Major map data from U.S. Department of the Interior and National Park Service, “Network to Freedom Listings,” National Underground Railroad Network to Freedom Program, <a>https://www.nps.gov/subjects/undergroundrailroad/ntf-listings.htm</a>; “Abolition & UGRR Topic,” Historical Marker Database, <a>https://www.hmdb.org/results.asp?Search=Topics&FilterTown=&FilterCounty=&FilterState=&FilterCountry=&CategoryID=44</a>; view this map, including additional data and layer citation information, <a href="https://arcg.is/1mmWvC4">here</a></small></p>
 </section>
