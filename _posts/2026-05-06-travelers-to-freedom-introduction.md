@@ -37,7 +37,7 @@ In truth, Underground Railroad history tends to focus on the places where freedo
   Apart from Tubman’s example, however, the most well-known part of the Underground Railroad are the places we now call “stations”—the homes or businesses of people who hosted freedom seekers. This approach makes sense for individual sites; we can expect interpretation of a house museum, for example, to focus on the homeowners and their use of the building for anti-slavery purposes. For example, the map below shows station sites included on the National Park Service Network to Freedom list and sites with historical markers related to abolition and the Underground Railroad. These are public history commemorations; many of them center local history.
 
 <figure>
-  <iframe src="https://urochester.maps.arcgis.com/apps/instant/basic/index.html?appid=9c1740b71f6244649df9095bc81e28fb" width="900" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+  <iframe src="https://urochester.maps.arcgis.com/apps/instant/basic/index.html?appid=fa30fcba5ae94905bb50efcfac1ed48a" width="900" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
   <figcaption>Map depicting Underground Railroad stations on the NPS Network to Freedom list and Historical Marker Database listings related to abolition and the Underground Railroad.<sup><a href="#fn5" id="r5">[5]</a></sup></figcaption>
 </figure>
 
