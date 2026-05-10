@@ -58,6 +58,13 @@ This post details the "Travelers to Freedom" project data visualizations and exp
 
 <p>Still’s data includes more escapes from the far south than Gay’s records, but looking at the outliers—escapes from states other than Delaware, Maryland, Virginia, and the Carolinas—reveals a similar pattern. The data includes five such outliers, with one overlap (Laura Lewis of Louisville, Kentucky) with Gay’s records. Like Lewis, James Conner of Orleans County, Louisiana, traveled to Philadelphia with his enslaver, and there claimed his freedom. Edward Davis stowed away on a steamship departing from Savannah, Georgia; John Thompson of Madison County, Alabama, escaped by climbing on top of a train car. Only one freedom seeker, Bill Paul of Oglethorpe County, Georgia, appears to have made the first part of his journey on foot.<sup><a href="#fn6" id="r6">[6]</a></sup></p>
 
+<p>As the map below shows, walking—in many ways the most accessible option, especially in areas without rail lines or navigable rivers or canals—was most viable as an escape option in states closest to the Pennsylvania-Maryland border.</p>
+
+<figure>
+  <iframe src="https://urochester.maps.arcgis.com/apps/instant/basic/index.html?appid=e7bee4ef696042a2bf5bc299c958823e" width="900" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+  <figcaption>Map depicting transportation methods of freedom seekers' arrivals to (left) and departures from (right) geographic locations.<sup><a href="#fn7" id="r7">[7]</a></sup></figcaption>
+</figure>
+
 <h1>What's next?</h1>
 
 <br>
@@ -73,4 +80,5 @@ This post details the "Travelers to Freedom" project data visualizations and exp
   <p id="fn4"><a href="#r4">[4]</a> <small>Major map data from Atack, “Historical Transportation of Navigable Rivers, Canals, and Railroads in the United States,” 10.3886/ICPSR36353.v1; Long et al., “Atlas of Historical County Boundaries,” <a>https://publications.newberry.org/ahcb/</a>; view this map, including additional data and layer citation information, <a href="https://arcg.is/1yirmG2">here</a>.</small></p>
    <p id="fn5"><a href="#r5">[5]</a> <small>Sidney Howard Gay, Record of Fugitives, 1855-1856, Columbia University Rare Book & Manuscript Library, 4-7, 9-10, 13, <a>https://exhibitions.library.columbia.edu/exhibits/show/fugitives/record_fugitives/book1</a>.</small></p>
   <p id="fn6"><a href="#r6">[6]</a> <small>William Still, <i>The Underground Rail Road</i> (Porter & Coates, 1872), 106-107, 240-245, 291, 403-405.</small></p>
+   <p id="fn7"><a href="#r7">[7]</a> <small>View this map <a href="https://arcg.is/1mTvuT4">here</a>.</small></p>
 </section>
