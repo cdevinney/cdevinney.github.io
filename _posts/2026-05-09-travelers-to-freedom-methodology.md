@@ -207,7 +207,13 @@ This post explains the methodological challenges of the project and details my d
 
 <h1>Conclusion</h1>
 
-<p>That is the (slightly dry) gist of how this project has come together. For the more interesting part—what all this data can tell us—see the conclusions post.</p>
+<p>That is the (slightly dry) gist of how this project has come together. For the more interesting part—what all this data can tell us—see the <a href="https://cdevinney.github.io/posts/2026/05/travelers-to-freedom-conclusions/">conclusions</a> post.</p>
+
+<br>
+
+<hr>
+
+<br>
 
 <section>
   <p id="fn1"><a href="#r1">[1]</a> <small>Eric Foner, <i>Gateway to Freedom: The Hidden History of America’s Fugitive Slaves</i> (Oxford University Press, 2015), 9–12, 94–108; William Still, <i>The Underground Rail Road</i> (Porter & Coates, 1872).</small></p>
