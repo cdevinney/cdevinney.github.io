@@ -68,6 +68,14 @@ This post introduces the digital history project I have been working on this sem
 
 <p>This brings us to another problem with station-focused history: its geographic limitation. If we focus on the places where freedom seekers stopped on their way north, we emphasize the most static parts of their journey. The Underground Railroad was a system of travel. It existed because thousands of people chose to seek their freedom. Their journeys connected the people who helped them, turning disparate abolitionists into supporters of a common goal.<sup><a href="#fn12" id="r12">[12]</a></sup></p>
 
+<p>To read about how my project explores the geographic dimensions of the Underground Railroad and what it reveals, see the <a href="https://cdevinney.github.io/posts/2026/05/travelers-to-freedom-methodology/">methodology</a> and <a href="https://cdevinney.github.io/posts/2026/05/travelers-to-freedom-conclusions/">conclusions</a> posts.</p>
+
+<br>
+
+<hr>
+
+<br>
+
 <section>
   <p id="fn1"><a href="#r1">[1]</a> <small>Benjamin F. Powelson, Carte-de-Visite Portrait of Harriet Tubman, 1868, albumen and silver on photographic paper on card mount, 3 15/16 × 2 7/16 in., Collection of the National Museum of African American History and Culture shared with the Library of Congress, Emily Howland Photograph Album, <a>http://n2t.net/ark:/65665/fd5c1fe9caa-2405-4c5f-ae98-e33ce83b5f30</a>.</small></p>
   <p id="fn2"><a href="#r2">[2]</a> <small>Kate Clifford Larson, <i>Bound for the Promised Land: Harriet Tubman, Portrait of an American Hero</i> (Random House, 2005), 92–96.</small></p>
