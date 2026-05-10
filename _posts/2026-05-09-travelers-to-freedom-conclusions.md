@@ -22,6 +22,14 @@ This post details the "Travelers to Freedom" project data visualizations and exp
   <figcaption>Map visualizing whether freedom seekers received directions and, if so, from whom.<sup><a href="#fn1" id="r1">[1]</a></sup></figcaption>
 </figure>
 
+<p>As we can see from the map, freedom seekers were far more likely to receive directions to locations further to the north and to reach southern locations by their own planning.</p>
+
+<figure>
+  <iframe src="https://urochester.maps.arcgis.com/apps/instant/compare/index.html?appid=21ef24ffa99c42b4aecbeee3a54faca1" width="900" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+  <iframe src="https://urochester.maps.arcgis.com/apps/instant/charts/index.html?appid=0b7f54feba294d24a7c571f2b63e8efb" width="900" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+  <iframe src="https://urochester.maps.arcgis.com/apps/instant/charts/index.html?appid=f7ff298a3f77425b8c446d591bd503ab" width="900" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+</figure>
+
 <h1>What's next?</h1>
 
 <br>
