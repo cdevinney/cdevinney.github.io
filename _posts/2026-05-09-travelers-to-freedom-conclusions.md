@@ -22,7 +22,7 @@ This post details the "Travelers to Freedom" project data visualizations and exp
   <figcaption>Map visualizing whether freedom seekers received directions and, if so, from whom.<sup><a href="#fn1" id="r1">[1]</a></sup></figcaption>
 </figure>
 
-<p>As we can see from the map, freedom seekers were far more likely to receive directions to locations further to the north and to reach southern locations by their own planning.</p>
+<p>As we can see from the map, freedom seekers were far more likely to receive directions to locations further to the north and to reach southern locations by their own planning. This is true whether we compare specific cities that were frequent stops for northern travel—Wilmington, Philadelphia, and New York—or whether we look at travel locations by state.</p>
 
 <figure>
   <iframe src="https://urochester.maps.arcgis.com/apps/instant/compare/index.html?appid=21ef24ffa99c42b4aecbeee3a54faca1" width="900" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
