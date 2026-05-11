@@ -67,6 +67,8 @@ This post details the "Travelers to Freedom" project data visualizations and exp
 
 <h1>What's next?</h1>
 
+<p>I plan to continue building the database until it includes all of the freedom seekers in Gay’s Record of Fugitives. Subsequent posts about this project will profile the journeys of individual freedom seekers in the record, especially individuals whose stories highlight interesting or underappreciated elements of travel to freedom.</p>
+
 <br>
 
 <hr>
