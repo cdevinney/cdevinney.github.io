@@ -2,7 +2,7 @@
 layout: single
 title:  "Printer's Time Capsule: Newspapers and Daily Life in America"
 header:
-  teaser: "1863_Johnson-Eastman_A-Ride-for-Liberty.jpg"
+  teaser:
 categories: 
   - Jekyll
 tags:
