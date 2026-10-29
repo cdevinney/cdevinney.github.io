@@ -8,7 +8,11 @@ tags:
   - printer's time capsule
 ---
 The historical newspaper for January 2027: scientific innovation, a fatal incident at the theater, and the first female 
-university professor in the *Virginia Gazette*.
+university professor, all in the *Virginia Gazette*.
+
+<figure>
+    <img src="/images/printers-time-capsule/2027-01/VA-Gazette-Header_1737-01-14.png">
+</figure>
 
 <h1>The World from Williamsburg in 1737</h1>
 
