@@ -7,8 +7,7 @@ header:
 tags:
   - printer's time capsule
 ---
-The historical newspaper for January 2027: scientific innovation, a fatal incident at the theater, and the first female 
-university professor, all in the *Virginia Gazette*.
+The historical newspaper for January 2027: reflections on scientific innovation, a fatal incident at the theater, and the first female university professor, all in the *Virginia Gazette*.
 
 <figure>
     <img src="/images/printers-time-capsule/2027-01/VA-Gazette-Header_1737-01-14.png">
@@ -22,6 +21,11 @@ university professor, all in the *Virginia Gazette*.
   George II was king of Great Britain. George Washington was four years old. The majority of Virginia’s free white 
   residents were probably literate, particularly in towns where schooling and reading material were more 
   accessible.<sup><a href="#fn2" id="r2">[2]</a></sup>
+</p>
+
+<p>
+  Williamsburg was the most notable of these towns. It was the capital of Virginia and home to its most prestigious 
+  institutions: the colonial legislature and the College of William & Mary.
 </p>
 
 <figure>
