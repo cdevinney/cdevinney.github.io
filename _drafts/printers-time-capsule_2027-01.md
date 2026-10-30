@@ -7,7 +7,7 @@ header:
 tags:
   - printer's time capsule
 ---
-The historical newspaper for January 2027: reflections on scientific innovation, a fatal incident at the theater, and the first female university professor, all in the *Virginia Gazette*.
+The historical newspaper for January 2027: reflections on scientific innovation, a fatal incident at the theater, and the first female university professor, all in the <a href="https://www.loc.gov/resource/sn84024739/1737-01-07/ed-1/?sp=1&st=image">*Virginia Gazette* of January 14, 1737</a>.
 
 <figure>
     <img src="/images/printers-time-capsule/2027-01/VA-Gazette-Header_1737-01-14.png">
@@ -30,12 +30,12 @@ The historical newspaper for January 2027: reflections on scientific innovation,
 
 <figure>
     <img src="/images/printers-time-capsule/2027-01/New-and-Accurate-Map-Closeup_Highlighted.png">
-    <figcaption><small>Williamsburg was so associated with the College of William & Mary that cartographer Emanuel Bowen 
+    <figcaption>Williamsburg was so associated with the College of William & Mary that cartographer Emanuel Bowen 
       labeled the town as “College” rather than “Williamsburg.” Bowen’s map also shows that, despite Williamsburg’s 
       significance, it wasn’t very far from what colonists probably considered the far west of European settlement. Land 
       tracts and geographic features on the left side of the map are labeled “Indian Land,” “Pascatawa” (probably 
       “Piscataway”), “Mattapanye” (“Mattaponi”), and other indigenous 
-      names.<sup><a href="#fn3" id="r3">[3]</a></sup></small></figcaption>
+      names.<sup><a href="#fn3" id="r3">[3]</a></sup></figcaption>
 </figure>
 
 <p>
@@ -43,6 +43,21 @@ The historical newspaper for January 2027: reflections on scientific innovation,
   was convenient. Men from prominent Virginia families could take courses at William & Mary, pursue legal training, 
   practice law, and eventually serve in the House of Burgesses, all in the same city. Thomas Jefferson was one 
   Virginian to follow such a trajectory.<sup><a href="#fn4" id="r4">[4]</a></sup>
+</p>
+
+<figure>
+    <img src="/images/printers-time-capsule/2027-01/Grouped-Williamsburg-Images.png">
+    <figcaption>In 1740, botanist John Bartram sketched some of Williamsburg’s most iconic educational and civic 
+      structures. His drawing depicts several buildings that still stand today. Counterclockwise from left and left 
+      to right in Bartram’s sketch: the Colonial Capitol, the Wren Building on William & Mary’s campus, and the 
+      Governor’s Palace.<sup><a href="#fn5" id="r5">[5]</a></sup></figcaption>
+</figure>
+
+<p>
+  The students, lawyers, merchants, planters, and politicians of Williamsburg needed books and news. But in the early 
+  eighteenth century, Maryland was the southernmost colony to have a printer. This meant that when English printer 
+  William Parks moved to Maryland in 1726, all of the southern colonies were available regions for him to expand. Virginia 
+  proved to be a particularly receptive market, and Parks started the <i>Virginia Gazette</i> in 1736.
 </p>
 
 <section>
@@ -62,7 +77,14 @@ The historical newspaper for January 2027: reflections on scientific innovation,
   </p>
 
   <p id="fn4"><a href="#r4">[4]</a> <small>Thomas S. Kidd, <i>Thomas Jefferson: A Biography of Spirit and Flesh</i> (Yale 
-    University Press, 2022), 23–27, 34–37..</small>
+    University Press, 2022), 23–27, 34–37.</small>
+  </p>
+  
+   <p id="fn5"><a href="#r5">[5]</a> John Bartram, <i>[Williamsburg, Virginia, ca. 1740]</i>, 1740, print from copper plate, 
+     Library of Congress, <a>https://lccn.loc.gov/2012649731</a>; “Capitol,” Colonial Williamsburg,
+     <a>https://www.colonialwilliamsburg.org/events/capitol/</a>; “The Wren Building,” William & Mary,
+     <a>https://www.wm.edu/sites/historiccampus/wrenbuilding/</a>; “Governor’s Palace Events,” Colonial Williamsburg,
+     <a>https://www.colonialwilliamsburg.org/gather/planning-resources/gather-venues/governors-place-events/</a>.</small>
   </p>
   
 </section>
